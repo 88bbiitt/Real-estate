@@ -258,12 +258,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/) for accessible component primitives
 - [Mapbox](https://www.mapbox.com/) for mapping services
 
-## 📞 Support
 
-For support and questions, please open an issue in the GitHub repository or contact the development team.
-
----
-
-**Built with ❤️ using modern web technologies**
-
-**Built by Tripti Garg**
